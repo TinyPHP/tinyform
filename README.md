@@ -27,6 +27,7 @@ TinyForm `V1.2.2`
 - **disabled** :说明此input不进行验证
 - **alt** :要提示的信息
 - **pattern** :说明此input输入需要满足的规则:
+
 > - required : 不能为空。
 > - email : 邮箱地址验证。
 > - ip : IP地址验证。
