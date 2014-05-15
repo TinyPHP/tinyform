@@ -1,25 +1,16 @@
-TinyForm 表单自动验证插件
+TinyForm 表单自动验证插件`V1.2.2`
 ========================
 
 ### TinyForm简介
 
 > Markdown 
-TinyForm是一个JavaScript表单自动验证插件，不依赖其它任何第三方插件。    —— [TinyRise官网](http://www.tinyrise.com)
+TinyForm是一个JavaScript表单自动验证插件，不依赖其它任何第三方插件。    
+—— [TinyRise官网](http://www.tinyrise.com)
 
-正如您在阅读的这份文档，它使用简单的符号标识不同的标题，将某些文字标记为**粗体**或者*斜体*，下面列举了几个高级功能，更多语法请按`Ctrl + /`查看帮助。 
-
-#### 代码块
-``` python
-@requires_authorization
-def somefunc(param1='', param2=0):
-    '''A docstring'''
-    if param1 > param2: # interesting
-        print 'Greater'
-    return (param2 - param1 + 1) or None
-class SomeClass:
-    pass
->>> message = '''interpreter
-... prompt'''
+#### 引入js与css文件
+``` html
+<script type="text/javascript" src="form.js"></script>
+<link rel="stylesheet" href="style.css">
 ```
 
 #### LaTex 公式

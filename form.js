@@ -1,8 +1,8 @@
 /**
 * Form表单类及自动验证插件 1.2.2
 * Date: 2013-11-12 13:29
-* http://www.tinylofty.com/
-* (c) 2009-2013 TinyLofty, http://www.tinylofty.com
+* http://www.tinyrise.com/
+* (c) 2009-2013 tinyrise, http://www.tinyrise.com
 */
 function FireEvent(elem, eventName)
 {
